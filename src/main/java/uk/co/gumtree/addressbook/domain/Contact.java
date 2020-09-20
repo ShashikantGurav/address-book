@@ -2,8 +2,8 @@ package uk.co.gumtree.addressbook.domain;
 
 import lombok.Builder;
 import lombok.Data;
+import org.joda.time.LocalDate;
 
-import java.time.LocalDate;
 
 @Data
 @Builder
